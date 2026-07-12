@@ -34,5 +34,5 @@ Andesprit is a software studio from the Andes. We build smart productivity tools
 ---
 
 <div align="center">
-  <p>Start a project: <a href="https://andesprit.github.io/#contact">andesprit.github.io</a> · <a href="mailto:guillermo.angarita.gutierrez@gmail.com">guillermo.angarita.gutierrez@gmail.com</a></p>
+  <p>Start a project: <a href="https://andesprit.github.io/#contact">andesprit.github.io</a> · <a href="mailto:andesprit.sa@gmail.com">andesprit.sa@gmail.com</a></p>
 </div>
