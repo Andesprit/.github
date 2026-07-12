@@ -11,11 +11,11 @@ Andesprit is a software studio from the Andes. We build smart productivity tools
 
 | Product | What it does |
 |---|---|
-| Dictaria | AI transcription that turns hours of audio into accurate, searchable text |
-| DayConductor | A life architect: long-term goals wired into weekly routines and daily tasks |
-| SmartPomodoro | A smarter pomodoro timer on web, desktop and mobile |
-| WhisperPal | A voice-first dictation companion powered by state-of-the-art speech AI |
-| SmartNutrition | Point at a food label and get AI nutrition analysis, comparisons and history |
+| [Dictaria](https://github.com/Andesprit/Dictaria) | AI transcription that turns hours of audio into accurate, searchable text |
+| [DayConductor](https://github.com/Andesprit/DayConductor) | A life architect: long-term goals wired into weekly routines and daily tasks |
+| [SmartPomodoro](https://github.com/Andesprit/smart_pomodoro) | A smarter pomodoro timer on web, desktop and mobile |
+| [WhisperPal](https://github.com/Andesprit/whisper-pal) | A voice-first dictation companion powered by state-of-the-art speech AI |
+| [SmartNutrition](https://github.com/Andesprit/smart-nutrition) | Point at a food label and get AI nutrition analysis, comparisons and history |
 
 ## Open Source
 
