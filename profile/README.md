@@ -2,7 +2,7 @@
   <img src="https://andesprit.github.io/favicon.svg" width="72" alt="Andesprit logo">
   <h1>Andesprit</h1>
   <p><strong>Smart tools for any job. AI for any business.</strong></p>
-  <p><a href="https://andesprit.github.io">andesprit.github.io</a></p>
+  <p><a href="https://andesprit.com">andesprit.com</a></p>
 </div>
 
 Andesprit is a software studio from the Andes. We build smart productivity tools and open-source software, and we create custom chatbots, LLM agents, automations and webpages for businesses of any size — engineered to the highest standards.
@@ -34,5 +34,5 @@ Andesprit is a software studio from the Andes. We build smart productivity tools
 ---
 
 <div align="center">
-  <p>Start a project: <a href="https://andesprit.github.io/#contact">andesprit.github.io</a> · <a href="mailto:andesprit.sa@gmail.com">andesprit.sa@gmail.com</a></p>
+  <p>Start a project: <a href="https://andesprit.com/#contact">andesprit.com</a> · <a href="mailto:andesprit.sa@gmail.com">andesprit.sa@gmail.com</a></p>
 </div>
